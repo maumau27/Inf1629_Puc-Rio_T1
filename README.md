@@ -9,6 +9,7 @@
 - ##### Matricula: 1410896
 
 ##### Arquivo Fonte: JogoDaSenha.lua
+- Descrição : O jogo da senha é um jogo no qual uma senha é gerada aleatoriamente pelo computador, e o objetivo do usuario é adivinhar essa senha. Para isso ele pode tentar uma senha qualquer, e para tal o programa irá dizer quantos numeros estão corretos e na posição correta, e quantos numeros estão corretos na posição errada. Com essas dicas o usuario deve ser capaz de adivinhar a senha em até 7 tentativas.
 
 ##### Versão: 1.0
 
