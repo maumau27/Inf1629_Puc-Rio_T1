@@ -3,7 +3,7 @@
 	Autor : Mauricio De Castro Lana
 	Data da última modificação: 10/04/2017
 	Versão : 1.0
-	Tamanho : 205 linhas
+	Tamanho : 207 linhas
 ]]
 
 --[[
