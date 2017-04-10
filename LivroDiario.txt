@@ -1,0 +1,36 @@
+Livro Diario de Mauricio Lana
+
+Dia 31/03/2017:
+
+-Inicio do desenvolvimento do JogoDaSenha.lua
+-Desenvolvidas as funções GerarSenha e ComparaSenha
+-Criada a versão 0.1
+
+Dia 04/04/2017:
+
+-Desenvolvidas as funções InvertTable e ClonarTable
+-Ajuste na função ComparaSenha que destruindo a table apos execução. Agora usando ClonarTable para poder destruir a table clonada.
+-Criada a versão 0.2
+
+Dia 06/04/2017:
+
+-Desenvolvidas as funções ObterSenha, ConverteNumeroSenha e TestaValidadeSenha
+-Ajuste na função ComparaSenha que estava fazendo as comparações de forma errada. Corrigida a compração
+-Criada a versão 0.3
+
+Dia 08/04/2017:
+
+-Criada a função main
+-Logica main do jogo desenvolvida e testes efetuados
+-Corretude do programa está aceitavel de acordo com as especificações
+-Criada a versão 0.4
+
+Dia 10/04/2017:
+
+-Adicionados os comentarios do codigo
+-Retoques finais na interfaçe com o usuario
+-Novos testes efetuados, Corretude aceitavel.
+-Criada a versão 1.0
+-Fim do ciclo de desenvolvimento
+
+Fim do Livro Diario
