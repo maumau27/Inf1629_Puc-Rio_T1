@@ -15,11 +15,11 @@
 
 ## Repositório: 
 
-JogoDaSenha.lua: arquivo fonte, contem o codigo fonte do programa, e é o executavel. [JogoDaSenha.lua]{https://github.com/maumau27/PUC-Rio-INF1629-Trabalho_1/blob/master/JogoDaSenha.lua}
+JogoDaSenha.lua: arquivo fonte, contem o codigo fonte do programa, e é o executavel.
 
 Autor: Mauricio Lana
 
-Data: 08/04/2017
+Data: 10/04/2017
 
  -------------------
  
@@ -46,3 +46,9 @@ Autor: Mauricio Lana
 Data: 10/04/2017
 
  -------------------
+ 
+LivroDiario.txt: arquivo contendo o registro de atividades 
+
+Autor: Mauricio Lana
+
+Data: 10/04/2017
