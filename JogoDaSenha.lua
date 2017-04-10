@@ -176,10 +176,12 @@ function main()
 	
 	QtdLugarCorreto = 0--inicializa variavel representativa de quantidade de numeros corretos no lugar correto
 	QtdLugarErrado = 0--inicializa variavel representativa de quantidade de numeros corretos no lugar errado
-	LimiteJogadas = 10--inicializa o limite de jogadas
+	LimiteJogadas = 7--inicializa o limite de jogadas
 	
 	print('Bem Vindo ao Jogo da Senha')--infomação introdutoria
 	print('Seu Objetivo é acetar a senha gerada pelo computado em até ' .. LimiteJogadas .. ' jogadas, usando apenas as dicas dadas pelo compudaor')
+	print('Uma senha valida consiste de quatro digitos(intervalo de [1.9]) consecutivos')
+	print('Boa Sorte')
 	print()
 	
 	--main loop
