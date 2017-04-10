@@ -3,7 +3,7 @@
 	Autor : Mauricio De Castro Lana
 	Data da última modificação: 10/04/2017
 	Versão : 1.0
-	Tamanho : 192 linhas
+	Tamanho : 205 linhas
 ]]
 
 --[[
@@ -181,10 +181,6 @@ function main()
 	print('Bem Vindo ao Jogo da Senha')--infomação introdutoria
 	print('Seu Objetivo é acetar a senha gerada pelo computado em até ' .. LimiteJogadas .. ' jogadas, usando apenas as dicas dadas pelo compudaor')
 	print()
-	
-	for i, v in pairs(SenhaPC) do--enquanto
-		print(i, v)
-		end
 	
 	--main loop
 	for i=LimiteJogadas,0,-1 do--enquanto o limite de jogadas não foi ultrapassado
