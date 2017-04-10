@@ -15,7 +15,7 @@
 
 ## Repositório: 
 
-JogoDaSenha.lua: arquivo fonte, contem o codigo fonte do programa, e é o executavel. [JogoDaSenha.lua]{}
+JogoDaSenha.lua: arquivo fonte, contem o codigo fonte do programa, e é o executavel. [JogoDaSenha.lua]{https://github.com/maumau27/PUC-Rio-INF1629-Trabalho_1/blob/master/JogoDaSenha.lua}
 
 Autor: Mauricio Lana
 
