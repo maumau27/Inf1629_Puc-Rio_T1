@@ -13,7 +13,7 @@
 ##### Versão: 1.0
 
 
-## Repositorio: 
+## Repositório: 
 
 JogoDaSenha.lua: arquivo fonte, contem o codigo fonte do programa, e é o executavel. [JogoDaSenha.lua]{}
 
