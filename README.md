@@ -31,7 +31,15 @@ Data: 10/04/2017
 
  -------------------
  
-Fluxograma.pdf: arquivo contendo o fluxograma da chamada de funções no programa
+Fluxograma.pdf: arquivo contendo o fluxograma da chamada de funções no programa no formato pdf
+
+Autor: Mauricio Lana
+
+Data: 10/04/2017
+
+ -------------------
+ 
+Fluxograma.xml: arquivo contendo o fluxograma da chamada de funções no programa no formato xml
 
 Autor: Mauricio Lana
 
