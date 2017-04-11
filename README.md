@@ -10,6 +10,7 @@
 
 ##### Arquivo Fonte: JogoDaSenha.lua
 - Descrição : O jogo da senha é um jogo no qual uma senha é gerada aleatoriamente pelo computador, e o objetivo do usuario é adivinhar essa senha. Para isso ele pode tentar uma senha qualquer, e para tal o programa irá dizer quantos numeros estão corretos e na posição correta, e quantos numeros estão corretos na posição errada. Com essas dicas o usuario deve ser capaz de adivinhar a senha em até 7 tentativas.
+- Sobre as funções : O programa usa duas funções(ClonarTable e InvertTable) que tem uma aplicação generica para qualquer table, não necessariamente table que contem senhas. Essas funções são implementadas no codigo por falta de funções padões do lua que efetuam tais operações. Portanto, elas poderiam ser extendidas para qualquer programa que trabalha com tables e seream usadas
 
 ##### Versão: 1.0
 
